@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            Console.ReadLine(); // ИС1-201 Уваровский Александр Дмитриевич
         }
     }
 
